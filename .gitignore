@@ -1,0 +1,11 @@
+.settings
+bin
+.classpath
+.project
+*.bak
+*.rar
+*.zip
+*.class
+*.jar
+build
+.gradle
